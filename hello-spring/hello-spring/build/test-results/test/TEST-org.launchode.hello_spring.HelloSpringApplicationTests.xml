@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchode.hello_spring.HelloSpringApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-27T22:47:43" hostname="CHO_LAPTOP" time="0.836">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.launchode.hello_spring.HelloSpringApplicationTests" time="0.836"/>
+  <system-out><![CDATA[17:47:41.459 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.launchode.hello_spring.HelloSpringApplicationTests]: HelloSpringApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:47:41.612 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.launchode.hello_spring.HelloSpringApplication for test class org.launchode.hello_spring.HelloSpringApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::       (v3.4.0-SNAPSHOT)
+
+2024-09-27T17:47:42.074-05:00  INFO 54632 --- [hello-spring] [    Test worker] o.l.h.HelloSpringApplicationTests        : Starting HelloSpringApplicationTests using Java 17.0.12 with PID 54632 (started by RBurk in C:\Users\RBurk\ClassWorkJavaLC\hello-spring\hello-spring)
+2024-09-27T17:47:42.077-05:00  INFO 54632 --- [hello-spring] [    Test worker] o.l.h.HelloSpringApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2024-09-27T17:47:43.292-05:00  INFO 54632 --- [hello-spring] [    Test worker] o.l.h.HelloSpringApplicationTests        : Started HelloSpringApplicationTests in 1.509 seconds (process running for 2.812)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
